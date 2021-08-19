@@ -1,5 +1,6 @@
-# Business Card Component
+# Business Card design component
 
-![Design preview for the Article preview component coding challenge](./public/images/desktop-design.jpeg)
+![Design preview for the Business Card component](./public/images/desktop-design.jpg)
+
 
 
